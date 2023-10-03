@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#h1 {
+    color: lightgray;
+}
+.main_div {
+    position: absolute;
+    left: 10vw;
+    top: 20vh;
+    width: 80vw;
+    height: 60vh;
+    background-color: #222222;
+    border: black inset 5px;
+}
+.generate {
+    position: relative;
+    left: 35%;
+    top: 20%;
+    height: 10%;
+    width: 30%;
+}
+.color1num {
+    position: relative;
+    left: 0;
+    top: -15%;
+    height: 10%;
+    width: 20%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.color2num {
+    position: relative;
+    left: 20%;
+    top: -25%;
+    height: 10%;
+    width: 20%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.color3num {
+    position: relative;
+    left: 40%;
+    top: -35%;
+    height: 10%;
+    width: 20%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.color4num {
+    position: relative;
+    left: 60%;
+    top: -45%;
+    height: 10%;
+    width: 20%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.color5num {
+    position: relative;
+    left: 80%;
+    top: -55%;
+    height: 10%;
+    width: 20%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.color1 {
+    position: relative;
+    left: 0;
+    top: 45%;
+    height: 10%;
+    width: 20%;
+    background-color: #333333;
+}
+.color2 {
+    position: relative;
+    left: 20%;
+    top: 35%;
+    height: 10%;
+    width: 20%;
+    background-color: #444444;
+}
+.color3 {
+    position: relative;
+    left: 40%;
+    top: 25%;
+    height: 10%;
+    width: 20%;
+    background-color: #555555;
+}
+.color4 {
+    position: relative;
+    left: 60%;
+    top: 15%;
+    height: 10%;
+    width: 20%;
+    background-color: #666666;
+}
+.color5 {
+    position: relative;
+    left: 80%;
+    top: 5%;
+    height: 10%;
+    width: 20%;
+    background-color: #777777;
+}
+.big_color1 {
+    z-index: -1;
+    position: absolute;
+    left: 0;
+    width: 20vw;
+    height: 100vh;
+    background-color: #333333;
+}
+.big_color2 {
+    z-index: -1;
+    position: absolute;
+    left: 20vw;
+    width: 20vw;
+    height: 100vh;
+    background-color: #444444;
+}
+.big_color3 {
+    z-index: -1;
+    position: absolute;
+    left: 40vw;
+    width: 20vw;
+    height: 100vh;
+    background-color: #555555;
+}
+.big_color4 {
+    z-index: -1;
+    position: absolute;
+    left: 60vw;
+    width: 20vw;
+    height: 100vh;
+    background-color: #666666;
+}
+.big_color5 {
+    z-index: -1;
+    position: absolute;
+    left: 80vw;
+    width: 20vw;
+    height: 100vh;
+    background-color: #777777;
+}
