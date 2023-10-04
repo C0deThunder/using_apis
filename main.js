@@ -36,7 +36,7 @@ const big_color3 = document.querySelector(".big_color3");
 const big_color4 = document.querySelector(".big_color4");
 const big_color5 = document.querySelector(".big_color5");
 
-var url = "https://colormind.io/api/";
+var url = "http://colormind.io/api/";
 var data = {
   model: "default"
 };
